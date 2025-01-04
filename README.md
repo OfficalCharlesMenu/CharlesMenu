@@ -2,7 +2,9 @@
 
 Progress has stopped because I stopped learning to code because I like electronic engineering aka making PCBs more 
 
-# You can still make a pull request if you know how to code and are willing to help I will still help make some decisions if somebody helps code but doesn't want to lead the project but if somebody wants to completely take over they can.
+# Not really over if somebody like YOU can help.
+
+You can still make a pull request if you know how to code and are willing to help I will still help make some decisions if somebody helps code but doesn't want to lead the project but if somebody wants to completely take over they can.
 
 # CharlesMenu
 Welcome to charles menu... make a  pull request if you want to  help EARLY DEVELOPMENT
