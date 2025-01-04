@@ -12,4 +12,5 @@ charcles menu  injects modmenu  code into Henry stickmin collection lol.  ACTUAL
 
 REQUIREMENTS TO HELPING:  Know how to use flash/  adobe air and has acess to a pc/mac/linux machine for  jpexs decompile: https://github.com/jindrapetrik/jpexs-decompiler and   can  use flashdevelop: https://github.com/fdorg/flashdevelop
 
-https://media.tenor.com/fm10t4yfvSAAAAAM/valiant-hero-henry.gif
+
+# kinda ironic this project is dead. https://media.tenor.com/fm10t4yfvSAAAAAM/valiant-hero-henry.gif
